@@ -1,0 +1,336 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+			"id": 1,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Adakah Kau Setia",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AdakahKauSetia.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Air Mata di Hari Persandinganmu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AirMatadiHariPersandinganmu.mp3",
+			"duration": "306",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Antara Hujan Dan Airmata",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AntaraHujanDanAirmata.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Betapa KuCinta Padamu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BetapaKuCintaPadamu.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "BILA CINTA DI DUSTA",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BILACINTADIDUSTA.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Bukan Aku Tak Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BukanAkuTakCinta.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Mencari Alasan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MencariAlasan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Gerimis Mengundang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GerimisMengundang.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Jangan Khianati Aku",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JanganKhianatiAku.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "BUNGA",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BUNGA.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Bunga Edelweis",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BungaEdelweis.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Cindai",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Cindai.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Cinta Itu Buta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CintaItuButa.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Cinta Kita",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CintaKita.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Diam mu Gunung Berapi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DiammuGunungBerapi.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "DiPersimpangan Dilema",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DiPersimpanganDilema.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "DiRantai DiGelangi Rindu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DiRantaiDiGelangiRindu.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Disana Menanti Disini Menunggu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DisanaMenantiDisiniMenunggu.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Hakikat Sebuah Cinta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HakikatSebuahCinta.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Hanya Satu Persinggahan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HanyaSatuPersinggahan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Isabella",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Isabella.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Kantoi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Kantoi.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Kembang Terhalang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KembangTerhalang.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Kerinduan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Kerinduan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Ku Sapu Air mata Perpisahan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KuSapuAirmataPerpisahan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Memori Berkasih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MemoriBerkasih.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Rindu Serindu rindunya",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RinduSerindurindunya.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Sinaran",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Sinaran.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Suci Dalam Debu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SuciDalamDebu.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Suratan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Suratan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Syahara",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Syahara.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Utusan Rindu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/UtusanRindu.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "LAGU GALAU MALAYSIA",
+			"title": "Buih Jadi Permadani",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BuihJadiPermadani.mp3",
+			"duration": "",
+			"lyrics": ""
+        }
+    ]
+}
