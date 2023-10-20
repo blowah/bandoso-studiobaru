@@ -1,0 +1,399 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+			"id": 1,
+			"name_category": "Exo Song Music",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "Exo Song Music",
+			"title": "Call Me Baby",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu1.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "Exo Song Music",
+			"title": "Heaven",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu2.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "Exo Song Music",
+			"title": "Lucky",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu3.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "Exo Song Music",
+			"title": "Miracles in december",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu4.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "Exo Song Music",
+			"title": "Monster",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu5.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "Exo Song Music",
+			"title": "Sing for You",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu6.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "Exo Song Music",
+			"title": "The Never Know",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu7.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "Exo Song Music",
+			"title": "Xoxo",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu8.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "Exo Song Music",
+			"title": "Dont Go",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu9.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "Exo Song Music",
+			"title": "Wolf",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu10.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "Exo Song Music",
+			"title": "One And Only",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu11.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "Exo Song Music",
+			"title": "Growl",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu12.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "Exo Song Music",
+			"title": "Baby Dont Cry",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu13.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "Exo Song Music",
+			"title": "Overdose",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu14.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "Exo Song Music",
+			"title": "Love Love Love",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu15.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "Exo Song Music",
+			"title": "Mama",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu16.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "Exo Song Music",
+			"title": "RUN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu17.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "Exo Song Music",
+			"title": "Thunder",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu18.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "Exo Song Music",
+			"title": "What Is Love",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu19.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "Exo Song Music",
+			"title": "Angel",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu20.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "Exo Song Music",
+			"title": "love shot",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu21.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "Exo Song Music",
+			"title": "1 billion views",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu22.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "Exo Song Music",
+			"title": "obsession",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu23.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "Exo Song Music",
+			"title": "telephone",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu24.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "Exo Song Music",
+			"title": "tempo",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/lagu25.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "Exo Song Music",
+			"title": "For Life",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu26ForLife.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "Exo Song Music",
+			"title": "KO KO BOP",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu27KOKOBOP.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "Exo Song Music",
+			"title": "Lotto",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu28Lotto.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "Exo Song Music",
+			"title": "Lucky One",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu29LuckyOne.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "Exo Song Music",
+			"title": "POWER",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu30POWER.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "Exo Song Music",
+			"title": "THE EVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu31THEEVE.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "Exo Song Music",
+			"title": "Unfair",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu32Unfair.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "Exo Song Music",
+			"title": "Universe",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu33Universe.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 34,
+			"name_category": "Exo Song Music",
+			"title": "Dont fight the feeling",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu34Dontfightthefeeling.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 35,
+			"name_category": "Exo Song Music",
+			"title": "Lightsaber",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu35Lightsaber.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 36,
+			"name_category": "Exo Song Music",
+			"title": "Love Me Right",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu36LoveMeRight.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 37,
+			"name_category": "Exo Song Music",
+			"title": "Peter Pan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu37PeterPan.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 38,
+			"name_category": "Exo Song Music",
+			"title": "First Snow",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu38FirstSnow.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 39,
+			"name_category": "Exo Song Music",
+			"title": "History",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lagu39History.mp3",
+			"duration": "",
+			"lyrics": ""
+		},
+		{
+			"id": 40,
+			"name_category": "Exo Song Music",
+			"title": "Dancing King",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DancingKing.mp3",
+			"duration": "",
+			"lyrics": ""
+        }
+    ]
+}
