@@ -2,9 +2,9 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-8359503984668545/4487553118",
+      "main_ads_intertitial":"ca-app-pub-8359503984668545/7834597723",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
@@ -16,8 +16,8 @@
       "open_ads_max" :"",
       "open_ads_wortise":"",
       "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"203868921",
+      "initialize_sdk_backup_ads":"203868921",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
