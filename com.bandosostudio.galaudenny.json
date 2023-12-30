@@ -1,0 +1,297 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "image": "file:///android_asset/image/ANYAR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "CRITO MUSTAHIL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "CUNDAMANI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "DADI SIJI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "ISOH TANPO KOWE",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "LOS DOLL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "PELANGGARAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "SANES",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "STASIUN BALAPAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "SUGENG NDALU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "TETEG ATI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "WANI GELUTE",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "SAYAH",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KEBACUT NYAMAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "DUMES",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "JAJALEN AKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KALIH WELASKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KARTONYONO MEDOT JANJI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KETINTANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KISINAN 1&2",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KLEBUS",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "KOK ISOH YO",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "LAYANG KANGEN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "OJO NANGIS",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "PINGAL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "SEWU KUTHO",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "TITENI LAN ENTENI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "LAGU GALAU DENNY CAKNAN",
+      "title": "WIRANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU29.mp3",
+      "lyrics": ""
+
+		}
+		
+		
+
+	]
+}
