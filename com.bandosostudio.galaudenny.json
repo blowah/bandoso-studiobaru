@@ -3,7 +3,7 @@
 		"select_main_ads": "ADMOB",
 		"select_backup_ads": "STARTAPP",
 		"main_ads_banner": "ca-app-pub-8359503984668545/4390619221",
-		"main_ads_intertitial": "",
+		"main_ads_intertitial": "ca-app-pub-8359503984668545/2937936758",
 		"backup_ads_banner": "qwerty1234",
 		"backup_ads_intertitial": "qwerty1234",
 		"interval_intertitial": 2,
