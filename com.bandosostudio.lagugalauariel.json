@@ -1,0 +1,409 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "image": "file:///android_asset/image/ANYAR.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "AKU DAN BINTANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU1.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DAN HILANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU2.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MIMPI YANG SEMPURNA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU3.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "SEMUA TENTANG KITA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU4.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 5,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KUKATAKAN DENGAN INDAH",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU5.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TAK BISAKAH",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU6.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DEMI KITA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU7.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 8,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "HIDUP UNTUK MU MATI TANPA MU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU8.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 9,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "INI CINTA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU9.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 10,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "JIKA ENGKAU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU10.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MENUNGGUMU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU11.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 12,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "RAJA NEGERIKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU12.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "SENDIRI LAGI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU13.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "SEPARUH AKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU14.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 15,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TAK LAGI SAMA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU15.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TERBANGUN SENDIRI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU16.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TAMAN LANGIT",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU17.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DARA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU18.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "2DSD",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU19.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KADA APA DENGAN MU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU20.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "BEBAS",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU21.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 22,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "BINTANG DI SURGA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU22.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "COBALAH MENGERTI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU23.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DI BELAKANGKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU24.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DI ATAS NORMAL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU25.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 26,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DI BALIK AWAN",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU26.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 27,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "DUNIA YANG TERLUPA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU27.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 28,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "HARI YANG CERAH UNTUK JIWA YANG SEPI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU28.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 29,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "JAUH MIMPI KU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU29.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 30,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KHAYALAN TINGKAT TINGGI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU30.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 31,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KISAH CINTA KU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU31.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 32,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KITA TERTAWA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU32.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 33,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KOTA MATI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU33.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 34,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "KUPU KUPU MALAM",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU34.mp3",
+      "lyrics": ""
+	  },
+    {
+      "id": 35,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "LANGIT TAK MENDENGAR",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU35.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 36,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MASA LALU TERTINGGAL",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU36.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 37,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MELAWAN DUNIA",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU37.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 38,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MEMBEBANIKU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU38.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 39,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MENGHAPUS JEJAK MU",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU39.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 40,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MENUNGGU PAGI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU40.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 41,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "MUNGKIN NANTI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU41.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 42,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "SAHABAT",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU42.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 43,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "SALLY SENDIRI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU43.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 44,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TOPENG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU44.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 45,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "WALAU HABIS TERANG",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU45.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 46,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "TAK ADA YANG ABADI",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU46.mp3",
+      "lyrics": ""
+	  },
+	  {
+      "id": 47,
+      "name_category": "LAGU GALAU ARIEL NOAH",
+      "title": "YANG TERDALAM",
+      "image": "file:///android_asset/image/ANYAR.jpg",
+      "link_mp3": "mp3/LAGU47.mp3",
+      "lyrics": ""
+
+		}
+		
+		
+
+	]
+}
